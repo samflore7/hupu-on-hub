@@ -1,2 +1,14 @@
 # hupu-on-hub
-HTML page archive and documentation
+
+静态页面发布集合
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
